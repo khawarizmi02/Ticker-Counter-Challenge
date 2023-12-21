@@ -1,7 +1,6 @@
 // import React from "react";
 import { useState, useEffect } from "react";
 import axios from "axios";
-import data from "../data.json";
 import { Counter } from "../components";
 import { useAuth } from "../Auth";
 
